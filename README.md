@@ -22,6 +22,7 @@
 ### 🔧 特征工程
 - [FE.1 特征理解](./特征工程/FE.1_特征理解.ipynb)
 - [FE.2 特征增强](./特征工程/FE.2_特征增强.ipynb)
+- [FE.3_特征构建](./特征工程/FE.3_特征构建.ipynb)
 ### 🤖 sklearn学习
 - [01.1 sklearn宏观框架](./sklearn学习/01.1sklearn宏观框架.md)
 - [01.2 sklearn核心包](./sklearn学习/01.2sklearn核心包.md)
